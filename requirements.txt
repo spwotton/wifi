@@ -1,0 +1,9 @@
+numpy
+scipy
+sounddevice
+soundfile
+matplotlib
+rich
+requests
+python-dotenv
+psycopg2-binary

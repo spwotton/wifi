@@ -1,0 +1,27 @@
+{
+  "generated_at": "2025-09-13T07:50:11Z",
+  "package_id": "20250913_075011",
+  "package_sha256": "a398c6b4500337f76ace7d489881e28662a3c7da0d9a97387bfcabbe0a0be643",
+  "tables": [
+    {
+      "csv": "sonar_events.csv",
+      "name": "sonar_events",
+      "rows": 14,
+      "sha256": "0f9585b5d49b7972b7c7b192be9fab78c492b99fbcce4ceb0fb27e0c881f9382",
+      "time_range": [
+        1757711446.8537126,
+        1757749811.1738083
+      ]
+    },
+    {
+      "csv": "wifi_frames.csv",
+      "name": "wifi_frames",
+      "rows": 22,
+      "sha256": "e4c7ec8d615efa64e298b0b88966f4a046f82e16be233dcd22a1914a9d5f2726",
+      "time_range": [
+        1757746620.0,
+        1757746770.0
+      ]
+    }
+  ]
+}

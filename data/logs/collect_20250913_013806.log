@@ -1,0 +1,6 @@
+iter=1 ts=1757749087 start
+iter=1 report=data\reports\20250913\report_001_013811.html manifest=data\evidence\run_20250913_013806\iter_001\manifest.json
+iter=2 ts=1757749393 start
+iter=2 report=data\reports\20250913\report_002_014318.html manifest=data\evidence\run_20250913_013806\iter_002\manifest.json
+iter=3 ts=1757749699 start
+iter=3 report=data\reports\20250913\report_003_014824.html manifest=data\evidence\run_20250913_013806\iter_003\manifest.json

@@ -1,0 +1,41 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run sonar import test",
+			"type": "process",
+			"command": "C:/Users/spwot/wifi/.venv/Scripts/python.exe",
+			"args": [
+				"-c",
+				"import sonar.detector as d; print(\"OK\")"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Run sonar import test 2",
+			"type": "process",
+			"command": "C:/Users/spwot/wifi/.venv/Scripts/python.exe",
+			"args": [
+				"-c",
+				"import sonar.detector as d; print(\"OK2\")"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Run sonar import test",
+			"type": "shell",
+			"command": "C:/Users/spwot/wifi/.venv/Scripts/python.exe",
+			"args": [
+				"-c",
+				"import sonar.detector as d; print(\"OK\")"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}
